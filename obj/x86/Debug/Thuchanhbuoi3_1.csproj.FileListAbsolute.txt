@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\bin\Debug\Thuchanhbuoi3_1.exe
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\bin\Debug\Thuchanhbuoi3_1.pdb
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\obj\x86\Debug\Thuchanhbuoi3_1.Form1.resources
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\obj\x86\Debug\Thuchanhbuoi3_1.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\obj\x86\Debug\Thuchanhbuoi3_1.exe
+D:\Visual Studio 2010\Projects\Thuchanhbuoi3_1\obj\x86\Debug\Thuchanhbuoi3_1.pdb
